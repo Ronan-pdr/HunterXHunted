@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d58b0f1c921b47728fa8d2e24f489b1d, type: 3}
+  m_Name: "Cl\xE9Molette"
+  m_EditorClassIdentifier: 
+  armeName: "Cl\xE9 molette"
+  damage: 34
+  "port\xE9eAttaque": 1
+  "p\xE9riodeAttaque": 0.5

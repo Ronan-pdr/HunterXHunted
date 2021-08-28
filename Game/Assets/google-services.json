@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297438738023",
+    "project_id": "smargame1",
+    "storage_bucket": "smargame1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297438738023:android:9dcc7a29b11a113b9c86c2",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.SMARGame1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297438738023-90ssmdu3vtd3mv0kg36eu0vamulks6n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo_Yhu2MLOIXr0J2CqCmeGGkfHGSKWQ24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297438738023-90ssmdu3vtd3mv0kg36eu0vamulks6n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

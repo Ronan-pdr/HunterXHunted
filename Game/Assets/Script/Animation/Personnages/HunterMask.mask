@@ -1,0 +1,397 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HunterMask
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: ak47
+    m_Weight: 1
+  - m_Path: control_rig
+    m_Weight: 1
+  - m_Path: control_rig/Bone
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001
+    m_Weight: 0
+  - m_Path: control_rig/Bone/Bone.001/spine 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_index.L 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_index.L 1/middle_index.L 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_index.L 1/middle_index.L 1/lower_index.L
+      1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_index.L 1/middle_index.L 1/lower_index.L
+      1/lower_index.L_end 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_little.L 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_little.L 1/middle_little.L 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_little.L 1/middle_little.L 1/lower_little.L
+      1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_little.L 1/middle_little.L 1/lower_little.L
+      1/lower_little.L_end 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_middle.L 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_middle.L 1/middle_middle.L 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_middle.L 1/middle_middle.L 1/lower_middle.L
+      1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_middle.L 1/middle_middle.L 1/lower_middle.L
+      1/lower_middle.L_end 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_ring.L 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_ring.L 1/middle_ring.L 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_ring.L 1/middle_ring.L 1/lower__ring.L
+      1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_ring.L 1/middle_ring.L 1/lower__ring.L
+      1/lower__ring.L_end 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_thumb.L 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_thumb.L 1/lower_thumb.L 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.L
+      1/upper_arm.L 1/lower_arm.L 1/hand.L 1/upper_thumb.L 1/lower_thumb.L 1/lower_thumb.L_end
+      1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/Bone.002
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/Bone.002/Bone.003
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/Bone.002/Bone.003/Bone.003_end
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/Bone.002/Bone.004
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/Bone.002/Bone.004/Bone.004_end
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/Bone.002/Bone.005
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/Bone.002/Bone.005/Bone.006
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/Bone.002/Bone.005/Bone.006/Bone.006_end
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/Bone.002/Bone.007
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/Bone.002/Bone.007/Bone.007_end
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_index.R 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_index.R 1/middle_index.R 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_index.R 1/middle_index.R 1/lower_index.R
+      1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_index.R 1/middle_index.R 1/lower_index.R
+      1/lower_index.R_end 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_little.R 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_little.R 1/middle_little.R 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_little.R 1/middle_little.R 1/lower_little.R
+      1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_little.R 1/middle_little.R 1/lower_little.R
+      1/lower_little.R_end 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_middle.R 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_middle.R 1/middle_middle.R 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_middle.R 1/middle_middle.R 1/lower_middle.R
+      1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_middle.R 1/middle_middle.R 1/lower_middle.R
+      1/lower_middle.R_end 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_ring.R 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_ring.R 1/middle_ring.R 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_ring.R 1/middle_ring.R 1/lower__ring.R
+      1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_ring.R 1/middle_ring.R 1/lower__ring.R
+      1/lower__ring.R_end 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_thumb.R 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_thumb.R 1/lower_thumb.R 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/clavicle.R
+      1/upper_arm.R 1/lower_arm.R 1/hand.R 1/upper_thumb.R 1/lower_thumb.R 1/lower_thumb.R_end
+      1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/neck
+      1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/neck
+      1/head 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/spine 1/spine.001 1/spine.002 1/spine.003 1/neck
+      1/head 1/head_end 1
+    m_Weight: 1
+  - m_Path: control_rig/Bone/Bone.001/thigh.L 1
+    m_Weight: 0
+  - m_Path: control_rig/Bone/Bone.001/thigh.L 1/shin.L 1
+    m_Weight: 0
+  - m_Path: control_rig/Bone/Bone.001/thigh.L 1/shin.L 1/shin.L_end
+    m_Weight: 0
+  - m_Path: control_rig/Bone/Bone.001/thigh.R 1
+    m_Weight: 0
+  - m_Path: control_rig/Bone/Bone.001/thigh.R 1/shin.R 1
+    m_Weight: 0
+  - m_Path: control_rig/Bone/Bone.001/thigh.R 1/shin.R 1/shin.R_end
+    m_Weight: 0
+  - m_Path: control_rig/Bone/IK.L
+    m_Weight: 0
+  - m_Path: control_rig/Bone/IK.L/foot.L
+    m_Weight: 0
+  - m_Path: control_rig/Bone/IK.L/foot.L/toe.L
+    m_Weight: 0
+  - m_Path: control_rig/Bone/IK.L/foot.L/toe.L/toe.L_end
+    m_Weight: 0
+  - m_Path: control_rig/Bone/IK.L/pole.L
+    m_Weight: 0
+  - m_Path: control_rig/Bone/IK.L/pole.L/pole.L_end
+    m_Weight: 0
+  - m_Path: control_rig/Bone/IK.R
+    m_Weight: 0
+  - m_Path: control_rig/Bone/IK.R/foot.R
+    m_Weight: 0
+  - m_Path: control_rig/Bone/IK.R/foot.R/toe.R
+    m_Weight: 0
+  - m_Path: control_rig/Bone/IK.R/foot.R/toe.R/toe.R_end
+    m_Weight: 0
+  - m_Path: control_rig/Bone/IK.R/pole.R
+    m_Weight: 0
+  - m_Path: control_rig/Bone/IK.R/pole.R/pole.R_end
+    m_Weight: 0
+  - m_Path: game_rig
+    m_Weight: 0
+  - m_Path: game_rig/spine
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_index.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_index.L/middle_index.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_index.L/middle_index.L/lower_index.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_index.L/middle_index.L/lower_index.L/lower_index.L_end
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_little.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_little.L/middle_little.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_little.L/middle_little.L/lower_little.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_little.L/middle_little.L/lower_little.L/lower_little.L_end
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_middle.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_middle.L/middle_middle.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_middle.L/middle_middle.L/lower_middle.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_middle.L/middle_middle.L/lower_middle.L/lower_middle.L_end
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_ring.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_ring.L/middle_ring.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_ring.L/middle_ring.L/lower__ring.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_ring.L/middle_ring.L/lower__ring.L/lower__ring.L_end
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_thumb.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_thumb.L/lower_thumb.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.L/upper_arm.L/lower_arm.L/hand.L/upper_thumb.L/lower_thumb.L/lower_thumb.L_end
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/Bone
+      1
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/Bone
+      1/Bone.001 1
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/Bone
+      1/Bone.001 1/Bone.001_end
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_index.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_index.R/middle_index.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_index.R/middle_index.R/lower_index.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_index.R/middle_index.R/lower_index.R/lower_index.R_end
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_little.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_little.R/middle_little.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_little.R/middle_little.R/lower_little.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_little.R/middle_little.R/lower_little.R/lower_little.R_end
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_middle.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_middle.R/middle_middle.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_middle.R/middle_middle.R/lower_middle.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_middle.R/middle_middle.R/lower_middle.R/lower_middle.R_end
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_ring.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_ring.R/middle_ring.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_ring.R/middle_ring.R/lower__ring.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_ring.R/middle_ring.R/lower__ring.R/lower__ring.R_end
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_thumb.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_thumb.R/lower_thumb.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/clavicle.R/upper_arm.R/lower_arm.R/hand.R/upper_thumb.R/lower_thumb.R/lower_thumb.R_end
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/neck
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/neck/head
+    m_Weight: 1
+  - m_Path: game_rig/spine/spine.001/spine.002/spine.003/neck/head/head_end
+    m_Weight: 1
+  - m_Path: game_rig/spine/thigh.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/thigh.L/shin.L
+    m_Weight: 1
+  - m_Path: game_rig/spine/thigh.L/shin.L/foot.L 1
+    m_Weight: 1
+  - m_Path: game_rig/spine/thigh.L/shin.L/foot.L 1/toe.L 1
+    m_Weight: 1
+  - m_Path: game_rig/spine/thigh.L/shin.L/foot.L 1/toe.L 1/toe.L_end 1
+    m_Weight: 1
+  - m_Path: game_rig/spine/thigh.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/thigh.R/shin.R
+    m_Weight: 1
+  - m_Path: game_rig/spine/thigh.R/shin.R/foot.R 1
+    m_Weight: 1
+  - m_Path: game_rig/spine/thigh.R/shin.R/foot.R 1/toe.R 1
+    m_Weight: 1
+  - m_Path: game_rig/spine/thigh.R/shin.R/foot.R 1/toe.R 1/toe.R_end 1
+    m_Weight: 1
